@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayriah
+- 👋 Hi, I’m @mariah
 - 👀 I’m interested in music,reading books,collecting notebooks
 - 🌱 I’m currently learning javascript,css,html and git
 - 💞️ I’m looking to collaborate on any open source project on web developemnt and web design
